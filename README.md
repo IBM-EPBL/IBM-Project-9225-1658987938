@@ -22,7 +22,9 @@ To detect the quality of water. Make the application available for everyone. Bui
 Services Used:
 
 Anaconda Navigator
+
 Jupyter Notebook
+
 All necessary Python packages 
 
 Technical Architecture: 
@@ -37,10 +39,15 @@ Water is considered as a vital resource that affects various aspects of human he
 Tasks: 
 
 Project design and Planning Ideation Phases
+        
         1. Literature Survey 
+        
         2. Problem Statement 
+        
         3. Empathy Map 
+        
         4. Brain storm 
+        
         5. Top 3 ideas
         
         
