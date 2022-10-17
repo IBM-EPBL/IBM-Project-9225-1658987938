@@ -21,7 +21,9 @@ To detect the quality of water. Make the application available for everyone. Bui
 
 Services Used:
 
-Anaconda Navigator Jupyter Notebook All necessary Python packages 
+Anaconda Navigator
+Jupyter Notebook
+All necessary Python packages 
 
 Technical Architecture: 
 
