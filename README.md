@@ -49,6 +49,5 @@ Project design and Planning Ideation Phases
         
         4. Brain storm 
         
-        5. Top 3 ideas
         
         
