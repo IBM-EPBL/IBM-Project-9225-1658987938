@@ -33,10 +33,6 @@ Technical Architecture:
 ![image](https://user-images.githubusercontent.com/84734173/196248602-5431b41e-a1c9-4f27-9fe8-061028a3a145.png)
 
 
-Project Description:
-
-Water is considered as a vital resource that affects various aspects of human health and lives. The quality of water is a major concern for people living in urban areas. The quality of water serves as a powerful environmental determinant and a foundation for the prevention and control of waterborne diseases. However predicting the urban water quality is a challenging task since the water quality varies in urban spaces non-linearly and depends on multiple factors, such as meteorology, water usage patterns, and land uses, so this project aims at building a Machine Learning (ML) model to Predict Water Quality by considering all water quality standard indicators.
-
 Tasks: 
 
 Project design and Planning Ideation Phases
